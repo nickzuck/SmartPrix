@@ -1,0 +1,12 @@
+define make_cool
+toupper append_a str
+mod append_a str
+end
+
+define mod
+reverse str
+end
+
+print "hello"
+print toupper "world"
+print append_a make_cool "world"

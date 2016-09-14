@@ -1,0 +1,6 @@
+print mod "WORLD"
+
+define mod
+tolower str
+end
+
